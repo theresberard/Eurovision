@@ -1,5 +1,7 @@
+Cliquez [ici](France.md) pour voir ce qu'il se passe en France !
+
 ## Welcome to GitHub Pages
-Lorem ipsum dolor sit amet.
+
 You can use the [editor on GitHub](https://github.com/theresberard/cmssite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
