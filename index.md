@@ -1,6 +1,6 @@
-Cliquez [ici](France.md) pour voir ce qu'il se passe en France !
+## Bienvenue sur le site très officieux de l'Eurovision !
 
-## Welcome to GitHub Pages
+Cliquez [ici](France.md) pour voir ce qu'il se passe en France !
 
 You can use the [editor on GitHub](https://github.com/theresberard/cmssite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
